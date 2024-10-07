@@ -1,0 +1,81 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Build folders
+build/
+bin/
+obj/
+
+# Backup & log files
+*.bak
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.vs/
+*.code-workspace
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Optional: Include files you want to ignore from external libraries
+# lib/
+# ExternalLibName/
+
+# Ignore specific config files or certificates
+# config.json
+# .env
+# *.pem
+
+# Ignore specific user files or directories
+# UserSpecificFile.txt
+# UserSpecificFolder/
